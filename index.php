@@ -82,7 +82,8 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
 <script type="text/javascript" src="https://laioasisventures.com/wp-content/themes/lai-oasis/inc/js/slick.min.js?ver=6.8" id="slick-min-js"></script>
 <script type="text/javascript" src="https://laioasisventures.com/wp-content/themes/lai-oasis/inc/js/oasis.js?ver=6.8" id="oasis-js-js"></script>
 <script type="text/javascript" src="https://laioasisventures.com/wp-content/themes/lai-oasis/inc/js/tour-slider.js?ver=6.8" id="tour-slider-js"></script>
-<link rel="https://api.w.org/" href="https://laioasisventures.com/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://laioasisventures.com/wp-json/wp/v2/pages/9" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://laioasisventures.com/xmlrpc.php?rsd" />
+<link rel="https://api.w.org/" href="https://laioasisventures.com/wp-json/" />
+<link rel="alternate" title="JSON" type="application/json" href="https://laioasisventures.com/wp-json/wp/v2/pages/9" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://laioasisventures.com/xmlrpc.php?rsd" />
 <meta name="generator" content="WordPress 6.8" />
 <link rel='shortlink' href='https://laioasisventures.com/' />
 <link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://laioasisventures.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flaioasisventures.com%2F" />
@@ -136,11 +137,11 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items elementor-inline-items">
 							<li class="elementor-icon-list-item elementor-inline-item">
-											<a href="tel:254722701340">
+											<a href="tel:254707209808">
 
 												<span class="elementor-icon-list-icon">
 							<i aria-hidden="true" class="icon icon-phone-call2"></i>						</span>
-										<span class="elementor-icon-list-text">+254 722 701340</span>
+										<span class="elementor-icon-list-text">+254-707-209-808</span>
 											</a>
 									</li>
 								<li class="elementor-icon-list-item elementor-inline-item">
