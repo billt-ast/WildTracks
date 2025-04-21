@@ -122,7 +122,7 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
 						<div class="elementor-element elementor-element-5b825dfc elementor-widget elementor-widget-image" data-id="5b825dfc" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 														<a href="https://laioasisventures.com">
-							<img fetchpriority="high" width="658" height="400" src="https://laioasisventures.com/wp-content/uploads/2024/06/Lai-Oasis-Ventures.webp" class="attachment-full size-full wp-image-46" alt="WildTracks Safaris" srcset="https://laioasisventures.com/wp-content/uploads/2024/06/Lai-Oasis-Ventures.webp 658w, https://laioasisventures.com/wp-content/uploads/2024/06/Lai-Oasis-Ventures-300x182.webp 300w" sizes="(max-width: 658px) 100vw, 658px" />								</a>
+							<img fetchpriority="high" width="658" height="400" src="imaes/004.png 658w, ../imaes/004.png" sizes="(max-width: 658px) 100vw, 658px" />								</a>
 													</div>
 				</div>
 					</div>
@@ -145,11 +145,11 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
 											</a>
 									</li>
 								<li class="elementor-icon-list-item elementor-inline-item">
-											<a href="mailto:info@laioaisventures.com">
+											<a href="mailto:info@wildtracksadventures.com">
 
 												<span class="elementor-icon-list-icon">
 							<i aria-hidden="true" class="icon icon-email1"></i>						</span>
-										<span class="elementor-icon-list-text">info@laioaisventures.com</span>
+										<span class="elementor-icon-list-text">info@wildtracksadventures.com</span>
 											</a>
 									</li>
 								<li class="elementor-icon-list-item elementor-inline-item">
@@ -242,9 +242,9 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
 		</section>
 				</div>
 		</div></li>
-<li id="menu-item-79" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-79 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px><a href="https://laioasisventures.com/about-us/" class="ekit-menu-nav-link">About Us</a></li>
+<li id="menu-item-79" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-79 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px><a href="about-us/about.html" class="ekit-menu-nav-link">About Us</a></li>
 <li id="menu-item-80" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-80 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px><a href="https://laioasisventures.com/blog/" class="ekit-menu-nav-link">Blog</a></li>
-<li id="menu-item-81" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-81 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px><a href="https://laioasisventures.com/contact-us/" class="ekit-menu-nav-link">Contact Us</a></li>
+<li id="menu-item-81" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-81 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px><a href="contact/contact-us.html" class="ekit-menu-nav-link">Contact Us</a></li>
 </ul><div class="elementskit-nav-identity-panel">
 				<div class="elementskit-site-title">
 					<a class="elementskit-nav-logo" href="https://laioasisventures.com" target="_self" rel="">
@@ -288,7 +288,7 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
 						<div class="elementor-element elementor-element-9b0d53d elementor-widget elementor-widget-image" data-id="9b0d53d" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 														<a href="https://laioasisventures.com">
-							<img fetchpriority="high" width="658" height="400" src="https://laioasisventures.com/wp-content/uploads/2024/06/Lai-Oasis-Ventures.webp" class="attachment-full size-full wp-image-46" alt="WildTracks Safaris" srcset="https://laioasisventures.com/wp-content/uploads/2024/06/Lai-Oasis-Ventures.webp 658w, https://laioasisventures.com/wp-content/uploads/2024/06/Lai-Oasis-Ventures-300x182.webp 300w" sizes="(max-width: 658px) 100vw, 658px" />								</a>
+							<img fetchpriority="high" width="658" height="400" src="imaes/004.png 658w, ../imaes/004.png" sizes="(max-width: 658px) 100vw, 658px" />								</a>
 													</div>
 				</div>
 					</div>
@@ -335,9 +335,9 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
 		</section>
 				</div>
 		</div></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-79 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px><a href="https://laioasisventures.com/about-us/" class="ekit-menu-nav-link">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-79 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px><a href="about-us/about.html" class="ekit-menu-nav-link">About Us</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-80 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px><a href="https://laioasisventures.com/blog/" class="ekit-menu-nav-link">Blog</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-81 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px><a href="https://laioasisventures.com/contact-us/" class="ekit-menu-nav-link">Contact Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-81 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px><a href="contact/contact-us.html" class="ekit-menu-nav-link">Contact Us</a></li>
 </ul><div class="elementskit-nav-identity-panel">
 				<div class="elementskit-site-title">
 					<a class="elementskit-nav-logo" href="https://laioasisventures.com" target="_self" rel="">
@@ -393,7 +393,7 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
 				<div class="elementor-element elementor-element-6310712 icon-btn elementor-widget__width-initial elementor-widget elementor-widget-elementskit-button" data-id="6310712" data-element_type="widget" data-widget_type="elementskit-button.default">
 				<div class="elementor-widget-container">
 			<div class="ekit-wid-con" >		<div class="ekit-btn-wraper">
-							<a href="https://laioasisventures.com/contact-us/" class="elementskit-btn  whitespace--normal" id="">
+							<a href="contact/contact-us.html" class="elementskit-btn  whitespace--normal" id="">
 					Book a tour<svg aria-hidden="true" class="e-font-icon-svg e-fas-arrow-alt-circle-right" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M256 8c137 0 248 111 248 248S393 504 256 504 8 393 8 256 119 8 256 8zM140 300h116v70.9c0 10.7 13 16.1 20.5 8.5l114.3-114.9c4.7-4.7 4.7-12.2 0-16.9l-114.3-115c-7.6-7.6-20.5-2.2-20.5 8.5V212H140c-6.6 0-12 5.4-12 12v64c0 6.6 5.4 12 12 12z"></path></svg>				</a>
 					</div>
         </div>		</div>
@@ -554,10 +554,10 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
 				<div class="elementor-widget-container">
 			<div class="ekit-wid-con" >
                 <div class="ekit-element-align-wrapper">
-                    <div class="ekit_double_button">                <a class="ekit-double-btn ekit-double-btn-one" href="https://laioasisventures.com/about-us/">
+                    <div class="ekit_double_button">                <a class="ekit-double-btn ekit-double-btn-one" href="about-us/about.html">
                     Read More                </a>
             <span class='ekit_button_middle_text'>|</span>
-            <a class="ekit-double-btn ekit-double-btn-two" href="https://laioasisventures.com/contact-us/">
+            <a class="ekit-double-btn ekit-double-btn-two" href="contact/contact-us.html">
                     Book Tour                </a>
                   </div>
                 </div>
@@ -798,11 +798,11 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
 			<div class="elementor-widget-wrap elementor-element-populated">
 						<div class="elementor-element elementor-element-a6d2248 elementor-widget__width-initial elementor-widget elementor-widget-image" data-id="a6d2248" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-													<img width="658" height="400" src="https://laioasisventures.com/wp-content/uploads/2024/06/Lai-Oasis-Ventures.webp" class="attachment-full size-full wp-image-46" alt="WildTracks Safaris" srcset="https://laioasisventures.com/wp-content/uploads/2024/06/Lai-Oasis-Ventures.webp 658w, https://laioasisventures.com/wp-content/uploads/2024/06/Lai-Oasis-Ventures-300x182.webp 300w" sizes="(max-width: 658px) 100vw, 658px" />													</div>
+													<img width="658" height="400" src="imaes/004.png 658w, ../imaes/004.png" sizes="(max-width: 658px) 100vw, 658px" />													</div>
 				</div>
 				<div class="elementor-element elementor-element-4eb7eaa7 elementor-widget elementor-widget-text-editor" data-id="4eb7eaa7" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p>At Lai Oasis Venture, we undertake all client ground handling services such as arranging for accommodation, excursions, transport services, car hire, flights.</p>						</div>
+							<p>At Wild Tracks Adventures Venture, we undertake all client ground handling services such as arranging for accommodation, excursions, transport services, car hire, flights.</p>						</div>
 				</div>
 				<div class="elementor-element elementor-element-0ee22fc ekit-equal-height-disable elementor-widget elementor-widget-elementskit-icon-box" data-id="0ee22fc" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
 				<div class="elementor-widget-container">
@@ -828,7 +828,7 @@ Maasai Mall, Nairobi</p>
 				<div class="elementor-element elementor-element-eb25031 ekit-equal-height-disable elementor-widget elementor-widget-elementskit-icon-box" data-id="eb25031" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
 				<div class="elementor-widget-container">
 			<div class="ekit-wid-con" >        <!-- link opening -->
-                <a href="mailto:info@laioaisventures.com" class="ekit_global_links">
+                <a href="mailto:info@wildtracksadventures.com" class="ekit_global_links">
                 <!-- end link opening -->
 
         <div class="elementskit-infobox text- text-left icon-lef-right-aligin elementor-animation- media  ">
@@ -838,7 +838,7 @@ Maasai Mall, Nairobi</p>
                 </div>
           </div>
                         <div class="box-body">
-                        		  <p>info@laioaisventures.com</p>
+                        		  <p>info@wildtracksadventures.com</p>
                                 </div>
         
         
@@ -849,7 +849,7 @@ Maasai Mall, Nairobi</p>
 				<div class="elementor-element elementor-element-545c274 ekit-equal-height-disable elementor-widget elementor-widget-elementskit-icon-box" data-id="545c274" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
 				<div class="elementor-widget-container">
 			<div class="ekit-wid-con" >        <!-- link opening -->
-                <a href="tel:254722701340" class="ekit_global_links">
+                <a href="tel:254707209808" class="ekit_global_links">
                 <!-- end link opening -->
 
         <div class="elementskit-infobox text- text-left icon-lef-right-aligin elementor-animation- media  ">
@@ -859,7 +859,7 @@ Maasai Mall, Nairobi</p>
                 </div>
           </div>
                         <div class="box-body">
-                        		  <p>(+254) 722 701340 / 733 701340</p>
+                        		  <p>(+254) 707 209 808 / 733 701340</p>
                                 </div>
         
         
@@ -1070,7 +1070,7 @@ Maasai Mall, Nairobi</p>
 				<div class="elementor-widget-container">
 			<div class="ekit-wid-con" >		<div class="elementor-icon-list-items ">
 							<div class="elementor-icon-list-item   ">
-						<a class="elementor-repeater-item-01d06f0 ekit_badge_left" href="https://laioasisventures.com/about-us/">
+						<a class="elementor-repeater-item-01d06f0 ekit_badge_left" href="about-us/about.html">
 							<div class="ekit_page_list_content">
 																	<span class="elementor-icon-list-icon">
 										<svg aria-hidden="true" class="e-font-icon-svg e-fas-minus" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M416 208H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h384c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z"></path></svg>									</span>
@@ -1158,7 +1158,7 @@ Maasai Mall, Nairobi</p>
 													</a>
 					</div>
 								<div class="elementor-icon-list-item   ">
-						<a class="elementor-repeater-item-6fa46a5 ekit_badge_left" href="https://laioasisventures.com/contact-us/">
+						<a class="elementor-repeater-item-6fa46a5 ekit_badge_left" href="contact/contact-us.html">
 							<div class="ekit_page_list_content">
 																	<span class="elementor-icon-list-icon">
 										<svg aria-hidden="true" class="e-font-icon-svg e-fas-minus" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M416 208H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h384c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z"></path></svg>									</span>
@@ -1181,7 +1181,7 @@ Maasai Mall, Nairobi</p>
 			<div class="elementor-widget-wrap elementor-element-populated">
 						<div class="elementor-element elementor-element-714f2391 elementor-widget elementor-widget-elementskit-heading" data-id="714f2391" data-element_type="widget" data-widget_type="elementskit-heading.default">
 				<div class="elementor-widget-container">
-			<div class="ekit-wid-con" ><div class="ekit-heading elementskit-section-title-wraper text_center   ekit_heading_tablet-   ekit_heading_mobile-text_center"><p class="ekit-heading--title elementskit-section-title ">©2024. WildTracks Safaris. All Rights Reserved. Design by <a href="https://alphasoft.ltd/" target="_blank">Alphasoft Ltd</a></p></div></div>		</div>
+			<div class="ekit-wid-con" ><div class="ekit-heading elementskit-section-title-wraper text_center   ekit_heading_tablet-   ekit_heading_mobile-text_center"><p class="ekit-heading--title elementskit-section-title ">©2025. WildTracks Safaris. All Rights Reserved. Design by <a href="https://retro-tech-ast.vercel.app/" target="_blank">RetroTech</a></p></div></div>		</div>
 				</div>
 					</div>
 		</div>
